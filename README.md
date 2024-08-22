@@ -3,7 +3,7 @@
 ---
 
   - Set up the database using the provided SQL script.
-  - [Download landmanagement_database.sql]()
+  - [Download landmanagement_database.sql](https://raw.githubusercontent.com/RaheemAbol/land_management_db/main/landmanagment.sql)
   - Ensure that all tables are created, and data is inserted correctly.
 
 ### **Ticket Breakdown: Land Management Database Project**
